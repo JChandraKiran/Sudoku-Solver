@@ -1,5 +1,5 @@
 # Sudoku-Solver
-This will solve the sudoku puzzle if we enter appropriate numbers.
+This is a python program to solve the sudoku puzzle. If we enter appropriate numbers, it will find solution.
 
 This will find solution for upto hard level puzzles.
 
